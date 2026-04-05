@@ -1,6 +1,14 @@
 ---
 name: tel-language
 description: "Write, read, and understand TEL (Token Efficient Language) — a compact DSL that represents C programs using minimal tokens for LLM-efficient coding. Use this skill whenever the user asks to write code in TEL, convert C to TEL, convert TEL to C, review TEL code, explain TEL syntax, debug TEL programs, or mentions 'TEL', 'Token Efficient Language', or asks for token-efficient C code. Also trigger when the user wants to write C code but mentions reducing tokens, LLM optimization, or compact syntax. If a .tel file is involved in any way, use this skill."
+metadata:
+  author: BautistaPessagno
+  version: "1.0"
+  tags:
+    - c
+    - compiler
+    - token-optimization
+    - llm
 ---
 
 # TEL — Token Efficient Language
